@@ -1,0 +1,12 @@
+Este programa de calculadora de Índice de Masa Corporal (IMC) fue diseñado utilizando el módulo tkinter en Python, 
+y ahora se ha convertido en un ejecutable (.exe). 
+La aplicación tiene una interfaz gráfica intuitiva y amigable, 
+permitiendo a los usuarios calcular su IMC ajustado según su peso, altura, edad y sexo, y guardar estos datos en un archivo CSV.
+
+
+Al ejecutar el archivo .exe, el usuario verá una ventana con el título "Calculadora de IMC". En esta ventana, pueden ingresar su nombre, peso, altura, edad y seleccionar su sexo.
+
+Ingreso de Datos: Los campos para ingresar los datos están claramente etiquetados y son fáciles de encontrar y usar.
+Botones: Los botones para calcular el IMC y guardar los datos tienen imágenes intuitivas y son lo suficientemente grandes para facilitar su uso.
+Resultados: Una vez que el usuario presiona el botón "Calcular", el resultado del IMC ajustado se muestra en una etiqueta en la parte inferior de la ventana.
+
